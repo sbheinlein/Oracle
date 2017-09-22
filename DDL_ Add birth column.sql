@@ -1,0 +1,1 @@
+Alter table DEMO_PROJECT_SH add (birth DATE default null);
